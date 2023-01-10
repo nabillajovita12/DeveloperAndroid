@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawer_layout" type="id">drawer_layout</item>
+    <item name="drawer_layout" type="id">drawer_layout</item>
+    <item name="nav_camera" type="id">nav_camera</item>
+    <item name="nav_send" type="id">nav_send</item>
+    <item name="nav_share" type="id">nav_share</item>
+    <item name="nav_slideshow" type="id">nav_slideshow</item>
+    <item name="nav_manage" type="id">nav_manage</item>
+    <item name="nav_gallery" type="id">nav_gallery</item>
+</resources>
